@@ -1,4 +1,4 @@
-# Quantitative Research Portfolio
+# Research Portfolio
 *Zalina Dezhina - Computational Neuroscientist & Quantitative Researcher*
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-green?style=for-the-badge)](https://mioulin.github.io/quantitative-research-portfolio/)
